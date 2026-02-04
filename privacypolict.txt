@@ -1,0 +1,405 @@
+# Privacy Policy for कारोबार
+
+**Effective Date**: February 5, 2026  
+**Last Updated**: February 5, 2026
+
+***
+
+## About This Privacy Policy
+
+The terms used in this Privacy Policy ("Policy") have the meaning as defined in the Terms of Use and should be read together with the Terms of Use. This Policy explains how **Gandhiva Technologies** ("the Company", "we", "us", "our") collects, uses, discloses, shares and transfers information of Users. This Policy applies to anybody who downloads the **कारोबार** mobile application or opens an account with the Company.
+
+**Developer Information:**
+
+**Gandhiva Technologies**  
+Registered Address: Thane, Mumbai, Maharashtra, India - 400604  
+Email: gandhivatechnologies@gmail.com  
+Phone: +91 83038 07051  
+Owner: Vinayak Yadav
+
+The Company recognizes the need for appropriate protection and management of any information shared with the Company or on the कारोबार application.
+
+By using or accessing the कारोबार application in any manner or opening an Account, you acknowledge that you have read and accepted this Policy and consent that the Company will collect, use, disclose, share and transfer information and personal data including but not limited to sensitive Personal Information. This Policy is an electronic record in the form of an electronic contract formed under the **Information Technology Act, 2000** and the rules made thereunder and the **Digital Personal Data Protection Act, 2023**.
+
+However, if you do not intend to share the Information as referred herein for use by the Company, you are free to opt-out or not use the कारोबार application and/or the Products and Services by deleting the Account, and in such a case, you are not required to give consent as per this Privacy Policy.
+
+If in future you feel that the Information or any part thereof as collected should not be used or should be deleted, consent granted in this Policy can be withdrawn by writing to the Company seeking to withdraw the consent or by deleting the Account. However, if you withdraw consent for the Company to use the Information as provided in this Policy, the Products and Services cannot be offered to you by the Company.
+
+***
+
+## Modification of Privacy Policy
+
+These policies may be updated from time to time in the future. You should agree to review our privacy policies regularly by visiting this page. Continued access to or use of the service will mean that you agree to the changes.
+
+***
+
+## When This Privacy Statement Applies
+
+This liability to you is limited to those who have downloaded the कारोबार application and logged in by clicking on the "I Agree/Login" button for Terms and Conditions or have explicitly consented to the policy on any other product/service page offered to you.
+
+***
+
+## How Information is Collected, Used, Disclosed, Shared and Stored
+
+### 1. Collection of Information
+
+The Company collects, uses, discloses, shares and transfers Information, including but not limited to User content, other content, communications, information etc. provided by Users when the Users access or use the कारोबार application for the Products and Services. By use of the कारोबार application and/or Products and Services, express consent and permission is granted to the Company for having access to, using, processing, disclosing, sharing and transferring of information in accordance with this Policy and the Terms of Use.
+
+### 2. Types of Information Collected
+
+**Personal Information**
+
+For the purpose of these Terms, "Personal Information" shall mean any information provided by the User and shall include, without limitation:
+
+- Name and business name
+- Mobile number
+- Email address
+- Business address
+- GST number (if provided)
+- MSME registration details (if applicable)
+- FSSAI license details (if applicable)
+- Customer/Party information (names, contact details, addresses)
+- Product/inventory details (glass types, aluminum profiles, hardware items, dimensions, prices, thickness specifications)
+- Invoice and transaction records
+- Payment information (amounts, dates, payment methods)
+- User content including notes, custom fields, and descriptions
+- One Time Password (OTP) received from government authorities/GST authority for authenticating/verifying registration processes
+
+**Non-Personal Information**
+
+For the purpose of these Terms, "Non-Personal Information" shall mean information that does not specifically identify an individual but includes:
+
+- Type of mobile device used
+- Device's unique device ID (IMEI, SSAID, Serial Number)
+- Android/iOS version and build information
+- Device hardware specifications (RAM, storage capacity, processor)
+- Internet Service Provider (ISP) and Internet Protocol (IP) address
+- Network operator information (MCC, MNC codes)
+- SIM information (roaming state, network operator)
+- WiFi information (MAC address)
+- Mobile network information
+- Screen resolution and display specifications
+- Battery level and charging state
+- Available storage space
+- App version and build number
+- Language and time zone settings
+
+Personal and Non-Personal Information together is referred to as "Information".
+
+The Company may collect Information when registration or opening of an Account happens on the कारोबार application, when features or Products and Services are used, when you share User content with the Company, and when you interact with the customer support team including the details of messages or chats.
+
+### 3. Cookies and Similar Technologies
+
+The Company may use cookies and similar technologies to monitor usage including, without limitation, to provide useful features to simplify experiences for you, like remembering login credentials and certain Personal Information, and to deliver relevant content based on preferences, usage patterns and location.
+
+### 4. Payment Information
+
+There could arise a requirement of providing payment information when you are required to make payment for Government Fees, subscription fees, or any Facilitation Fees as per the Terms of Use. The Company or any third party providing services related to payment may use this information, such as account and authentication information and billing, delivery and contact details. The Company shall in no case be liable for any loss or damage sustained by you arising out of any disclosure (inadvertent or otherwise) of any information relating to bank account, credit or debit card details, or UPI details in the course of any online transactions or payments made.
+
+### 5. Usage Information
+
+The Company collects information about your use of the कारोबार application and/or Products and Services, such as:
+
+- Features used (invoice creation, inventory management, reports)
+- Activity carried out (products added, invoices generated, customers created)
+- Time, frequency and duration of activities
+- Screens viewed and navigation patterns
+- Error logs and crash reports
+- Performance data
+
+### 6. Device Information
+
+The Company is required to collect information from and about the mobile devices used and combines this information across different devices that are used.
+
+Information that the Company obtains from these devices includes:
+
+**a. Device and Technical Information:**
+- Operating system and version
+- Hardware model and manufacturer
+- Software versions
+- Battery level and charging state
+- Signal strength
+- Available storage space and RAM
+- App and file names and types
+- Plugins and installed applications metadata
+- Name of mobile operator or ISP
+- Language and time zone
+- Mobile phone number
+- IP address
+- Connection speed and type
+- Unique device identifiers (IMEI, Serial Number, SSAID, Android ID)
+
+**b. Permissions and Access:**
+- Access to device storage
+- Access to camera (when taking photos)
+- Network connectivity status
+- Data from local storage on devices
+
+**c. Location-Related Information:**
+Location-related information such as approximate location to provide personalized and improved use of the कारोबार application and/or Products and Services. Location-related information can be based on things such as IP addresses, network information, or mobile operator information. **We do not collect precise GPS location data.**
+
+***
+
+## Google Services Permissions Usage
+
+### Gmail Mail Send (gmail.send)
+- **Purpose**: Allows you to send your invoices and report PDFs to your customers directly from the app
+- **Usage**: Allows you to take backup of your app data to your email
+
+### Google Drive File (drive.file)
+- **Purpose**: Allow you to take backup of your app data on your Google Drive
+- **Usage**: Allows the app to take regular automatic backup of your app data
+
+### Google Contacts (contacts.readonly)
+- **Purpose**: Allow users to import Google Contacts for adding parties (customers/suppliers) to the accounting software
+- **Usage**: Simplifies customer/vendor creation by importing existing contacts
+
+***
+
+## How कारोबार Stores and Shares Google User Data
+
+**कारोबार does not store any Google user data on our servers.** Whenever कारोबार fetches this data, it gets shown to you while using the feature. You choose the data you want to use for import and that gets used to create customers/vendors for you in the software. कारोबार will not store this data for any further use beyond the immediate import operation. कारोबार will also not share your Google authentication data with anyone. कारोबार will not store this data anywhere on external servers.
+
+***
+
+## Collection of Financial SMS Information
+
+We don't collect, read or store your personal SMS from your inbox. **We collect and monitor only financial SMS sent by 6-digit alphanumeric senders** from your inbox which helps us in:
+
+- Identifying various bank accounts that you may be holding
+- Understanding cash flow patterns
+- Identifying transaction descriptions and amounts
+- Performing credit risk assessment
+- Determining your risk profile
+- Providing appropriate credit analysis
+
+This process enables you to avail financial facilities from regulated financial entities available through partnerships (if applicable). This Financial SMS data may also include your historical data.
+
+**Note**: This feature is **optional** and only activated if you explicitly opt-in to credit assessment services.
+
+***
+
+## Collection of Device Location and Device Information
+
+We collect and monitor information about the approximate location of your device to:
+
+- Provide serviceability assessment for services
+- Reduce risk in service delivery
+- Verify business address
+- Make better decisions
+- Expedite Know Your Customer (KYC) processes
+
+Information the App collects depends on how you manage your privacy controls on your device. When you install the App, we store the information we collect with unique identifiers tied to the device you are using.
+
+We collect information from the device when you download and install the App and explicitly seek permissions from you to get the required information from the device. The information we collect from your device includes:
+
+- Hardware model and build model
+- RAM and storage capacity
+- Unique device identifiers (IMEI, serial number, SSAID, Android ID)
+- SIM information (network operator, roaming state, MNC and MCC codes)
+- WiFi information (MAC address)
+- Mobile network information to uniquely identify devices and ensure no unauthorized device acts on your behalf to prevent fraud
+
+***
+
+## Collection of Installed Applications
+
+We collect a list of installed applications' metadata information which includes the application name, package name, installed time, updated time, version name and version code of each installed application on your device to:
+
+- Assess creditworthiness (if you opt-in to credit services)
+- Enrich your profile with pre-approved customized offers
+- Prevent fraud and ensure device security
+
+**Note**: This feature is **optional** and only activated if you explicitly opt-in to credit assessment services.
+
+***
+
+## Storage Permission
+
+We require storage permission so that:
+
+- Your business data (invoices, inventory, customers) can be securely saved on your device
+- Invoices and reports can be exported as PDF/Excel files
+- Backup files can be created and restored
+- Documents and product images can be stored locally
+
+This ensures you are provided with a seamless experience while using the application and can access your data even without internet connectivity.
+
+***
+
+## Camera Permission
+
+We require camera permission to enable you to:
+
+- Click photos of products for your inventory
+- Capture images of invoices or documents
+- Scan documents (if applicable)
+- Take photos for business records
+
+Camera access is only used when you explicitly tap on "Add Photo" or similar buttons within the app.
+
+***
+
+## Collection of Other Non-Personal Information
+
+We automatically track certain information about you based upon your behavior in our Application. We use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve our users and improve our services. This information is compiled and analyzed on an aggregated basis.
+
+We also collect your Internet Protocol (IP) address and information used by you to connect to the internet. This information may include the app screen you just came from, which screen you go to next, your device information, and your IP address.
+
+We use analytics tools similar to other mobile applications. Use of this information helps us identify you in order to make our Application more user-friendly.
+
+We retain transaction and usage information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.
+
+If you send us personal correspondence, such as emails or messages, or if other users or third parties send us correspondence about your activities, we collect such information into a file specific to you.
+
+***
+
+## Link to Third-Party SDK
+
+The कारोबार Application may have a link to registered third-party SDKs that collect data on our behalf, and data is stored on a secured server to:
+
+- Perform analytics
+- Provide crash reporting
+- Enable cloud backup (if opted-in)
+- Process payments (if applicable)
+- Provide credit assessment (if opted-in)
+
+We ensure that our third-party service providers take extensive security measures in order to protect your personal information against loss, misuse or alteration of the data. Our third-party service providers employ:
+
+- Separation of environments and segregation of duties
+- Strict role-based access control on a documented, authorized, need-to-use basis
+- Application-level encryption for stored data
+- Key management services to limit access to data
+- Hosting security with industry-leading anti-virus, anti-malware solutions
+- Intrusion prevention and detection systems
+- File integrity monitoring and application control solutions
+
+***
+
+## How कारोबार Uses User Data
+
+The Company may use the Information for:
+
+### 1. Core Application Services
+- Providing access to the कारोबार application and use of Products and Services
+- Managing your Account with the Company
+- Creating and managing invoices with automatic unit conversions (Master Units, Sut, inches, mm)
+- Managing inventory for Glass, Aluminum, Hardware, and Other categories
+- Tracking stock levels and generating alerts
+- Managing customer/supplier information
+- Generating GST-compliant invoices
+- Creating business reports and analytics
+- Calculating dimensions and quantities
+
+### 2. Authentication and Verification
+- Authentication using One Time Password (OTP) for login and security
+- Verification with government authorities/GST authority for authenticating GST registration process
+- MSME registration verification
+- FSSAI license verification
+- Bureau checks or any other product/service availed by you from time to time
+
+### 3. Communication
+- Send SMS for authenticating transactions via One Time Password (OTP)
+- Send invoices to customers via email or messaging
+- Send notifications about stock alerts, pending invoices, or due payments
+- Provide customer support and respond to queries
+- Send important updates about app features or changes
+
+### 4. Research and Development
+- Conduct general surveys or analysis of Accounts
+- Develop, test and improve the कारोबार application and/or Products and Services
+- Test and troubleshoot new products and features
+- Remove any glitches including technical problems
+- Improve the experience of navigating and carrying out transactions
+- Improve the services and content, Products and Services
+
+### 5. Analytics and Personalization
+- Analyze usage patterns to improve user experience
+- Provide personalized recommendations
+- Show relevant content based on your business type (glass/aluminum/hardware wholesaler)
+
+### 6. Security and Fraud Prevention
+- Prevent unauthorized access to accounts
+- Detect and prevent fraudulent activities
+- Ensure the security of transactions
+- Verify device authenticity
+
+### 7. Legal and Compliance
+- Comply with legal obligations
+- Respond to government authority requests
+- Maintain records as required by law
+
+***
+
+## Sharing of Personal Information
+
+The Company may disclose or share Personal Information including but not limited to User Content in the following ways:
+
+### 1. Disclosure or Sharing with Government Authorities
+
+Information including Personal Information may be shared with and disclosed to government authorities including but not limited to:
+
+- **Goods and Service Tax (GST) Authority**: For GST registration, return filing, invoice authentication, and tax compliance
+- **MSME Authority**: For MSME registration and certification processes
+- **FSSAI Authority**: For food safety license verification (if applicable)
+- **Income Tax Department**: For tax compliance and reporting
+- **Other Statutory Authorities**: As required by law
+
+This sharing is necessary to enable providing the Products and Services, particularly GST-compliant invoicing and government registrations.
+
+### 2. Disclosure to Government Authorities or as Required by Law
+
+Information may be shared with Government and/or statutory authorities or under:
+
+- Court orders or other legal processes
+- To establish or exercise legal rights
+- To defend against legal claims
+- As otherwise required by law
+
+The Company warrants that such information will be disclosed only in accordance with applicable directions, instructions, laws and regulations.
+
+### 3. Disclosure to Third-Party Service Providers
+
+The Company may provide, disclose and share information including Personal Information that is collected to:
+
+- **Cloud service providers**: For optional cloud backup services (AWS, Google Cloud, Firebase)
+- **Database service providers**: For data management and storage
+- **Backup and disaster recovery service providers**: For data protection
+- **Email service providers**: For sending invoices and reports (Gmail, Outlook integration)
+- **SMS service providers**: For OTP and notification delivery
+- **Analytics providers**: For app usage analytics (Google Analytics, Firebase Analytics)
+- **Crash reporting services**: For identifying and fixing bugs (Firebase Crashlytics)
+- **Payment gateway providers**: For processing payments (if applicable)
+- **Technology partners, subsidiaries and affiliates**: Including services outside India, to help ensure availability of कारोबार application and providing Products and Services
+
+All third-party service providers are bound by confidentiality agreements and data protection standards.
+
+### 4. Disclosure to Prospective Acquirers
+
+The Company may disclose information including Personal Information to an acquirer, assignee or other successor entity in connection with a sale, merger, or reorganization of all or substantially all of the equity or business of the Company. You will be notified via email and/or a prominent notice in the application of any such change in ownership.
+
+### 5. Disclosure to Facilitate Payment
+
+In order to process payment transactions, the Company may direct you to a payment gateway service provider of its own choice, which may have access to the Personal Information provided while making such payment.
+
+### 6. Disclosure with Your Consent
+
+We may share your information with third parties when you explicitly consent to such sharing, such as:
+
+- Sharing invoices with your customers via email or messaging
+- Exporting data to accounting software
+- Integrating with third-party business tools
+
+### 7. Aggregated and Anonymized Information
+
+We may share aggregated or anonymized information that does not directly identify you with:
+
+- Business partners for industry analysis
+- Researchers for improving business processes
+- Marketing partners for understanding market trends
+
+***
+
+## Protection of Information
+
+The Company, on a best effort basis, shall attempt to take adequate measures to protect the security of Personal Information and to ensure that the choices for its intended use are honored. The Company also takes adequate precautions, on a best effort basis,
