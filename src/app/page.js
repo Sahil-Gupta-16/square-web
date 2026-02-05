@@ -4,8 +4,8 @@ import HeroSection from "@/components/sections/HeroSection";
 import ProblemSection from "@/components/sections/ProblemSection";
 import FeaturesSection from "@/components/sections/FeaturesSection";
 import StatsSection from "@/components/sections/StatsSection";
+import ProcessSection from "@/components/sections/ProcessSection";
 import DemoSection from "@/components/sections/DemoSection";
-import TestimonialsSection from "@/components/sections/TestimonialsSection";
 import FAQSection from "@/components/sections/FAQSection";
 import FinalCTA from "@/components/sections/FinalCTA";
 
@@ -16,8 +16,8 @@ export default function Home() {
       <ProblemSection />
       <FeaturesSection />
       <StatsSection />
+      <ProcessSection />
       <DemoSection />
-      <TestimonialsSection />
       <FAQSection />
       <FinalCTA />
     </div>

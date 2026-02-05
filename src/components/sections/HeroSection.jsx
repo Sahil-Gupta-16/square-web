@@ -50,19 +50,6 @@ const HeroSection = () => {
                                 </Button>
                             </div>
 
-                            <motion.div
-                                className="mt-8 flex items-center justify-center lg:justify-start gap-4 text-gray-500"
-                                initial={{ opacity: 0 }}
-                                animate={{ opacity: 1 }}
-                                transition={{ delay: 1, duration: 1 }}
-                            >
-                                <div className="flex -space-x-2">
-                                    {[1, 2, 3, 4].map((i) => (
-                                        <div key={i} className="w-8 h-8 rounded-full border-2 border-white bg-gray-200" />
-                                    ))}
-                                </div>
-                                <span className="text-sm font-medium">Trusted by 500+ Wholesalers in India</span>
-                            </motion.div>
                         </motion.div>
                     </div>
 

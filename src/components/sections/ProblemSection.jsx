@@ -60,6 +60,7 @@ const ProblemSection = () => {
                             viewport={{ once: true }}
                             transition={{ delay: index * 0.1 }}
                             whileHover={{ y: -10 }}
+                            className="cursor-pointer"
                         >
                             <Card className="h-full border-none shadow-xl shadow-gray-100/50 hover:shadow-2xl hover:shadow-primary/5 transition-all duration-300">
                                 <CardHeader>

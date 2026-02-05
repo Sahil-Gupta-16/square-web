@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
-import { Facebook, Twitter, Instagram, Linkedin, Mail, Phone, MapPin } from "lucide-react";
+import { Facebook, Twitter, Instagram, Linkedin, Mail, Phone, MapPin, MessageCircle } from "lucide-react";
+import { APP_LINKS } from "@/constants/links";
 
 const Footer = () => {
     return (
@@ -68,11 +69,15 @@ const Footer = () => {
                         <ul className="space-y-3">
                             <li className="flex items-start gap-3 mt-1">
                                 <Phone className="w-4 h-4 text-primary shrink-0" />
-                                <span className="text-gray-600 text-sm">+91 83038 07051</span>
+                                <a href="tel:+918303807051" className="text-gray-600 hover:text-primary text-sm transition-colors">+91 83038 07051</a>
+                            </li>
+                            <li className="flex items-start gap-3 mt-1">
+                                <MessageCircle className="w-4 h-4 text-green-500 shrink-0" />
+                                <a href={APP_LINKS.WHATSAPP} target="_blank" className="text-gray-600 hover:text-green-600 text-sm font-medium transition-colors">WhatsApp Support</a>
                             </li>
                             <li className="flex items-start gap-3 mt-1">
                                 <Mail className="w-4 h-4 text-primary shrink-0" />
-                                <span className="text-gray-600 text-sm">gandhivatechnologies@gmail.com</span>
+                                <a href="mailto:gandhivatechnologies@gmail.com" className="text-gray-600 hover:text-primary text-sm transition-colors">gandhivatechnologies@gmail.com</a>
                             </li>
                             <li className="flex items-start gap-3 mt-1">
                                 <MapPin className="w-4 h-4 text-primary shrink-0" />

@@ -14,6 +14,7 @@ const geistMono = Geist_Mono({
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import { Toaster } from "sonner";
+import WhatsAppBubble from "@/components/ui/WhatsAppBubble";
 
 export const metadata = {
   title: "कारोbaar | Modern Accounting for Wholesalers",
@@ -31,6 +32,7 @@ export default function RootLayout({ children }) {
           {children}
         </main>
         <Footer />
+        <WhatsAppBubble />
         <Toaster position="top-center" richColors />
       </body>
     </html>

@@ -23,7 +23,7 @@ const FinalCTA = () => {
                         Ready to transform your glass business?
                     </h2>
                     <p className="text-xl md:text-2xl text-primary-foreground/90 mb-12 max-w-2xl mx-auto font-medium">
-                        Join 500+ wholesalers who are saving time and reducing errors with कारोbaar.
+                        Experience the future of wholesale accounting. Join our early access list and be the first to scale with कारोbaar.
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">

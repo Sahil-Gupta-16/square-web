@@ -31,7 +31,7 @@ const StatsSection = () => {
         { label: "Hours Saved Daily", value: 3, suffix: "+" },
         { label: "Fewer Manual Errors", value: 90, suffix: "%" },
         { label: "Faster Invoicing", value: 5, suffix: "x" },
-        { label: "Active Users", value: 500, suffix: "+" },
+        { label: "Stock Categories", value: 5, suffix: "+" }
     ];
 
     return (

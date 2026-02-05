@@ -91,7 +91,7 @@ const FeaturesSection = () => {
                             viewport={{ once: true }}
                             transition={{ delay: index * 0.1 }}
                             whileHover={{ scale: 1.02 }}
-                            className="bg-white p-8 rounded-3xl border border-gray-100 shadow-lg shadow-gray-200/20 group transition-all duration-300"
+                            className="bg-white p-8 rounded-3xl border border-gray-100 shadow-lg shadow-gray-200/20 group transition-all duration-300 cursor-pointer"
                         >
                             <div className={`w-14 h-14 rounded-2xl ${feature.color} flex items-center justify-center mb-6 text-white shadow-lg ${feature.color}/30 group-hover:rotate-6 transition-transform`}>
                                 <feature.icon className="w-7 h-7" />

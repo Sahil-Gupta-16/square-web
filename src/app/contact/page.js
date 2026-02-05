@@ -5,6 +5,8 @@ import { motion } from "framer-motion";
 import ContactForm from "@/components/forms/ContactForm";
 import { Mail, Phone, MapPin, MessageCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { APP_LINKS } from "@/constants/links";
+import Link from "next/link";
 
 const ContactPage = () => {
     return (
@@ -66,9 +68,11 @@ const ContactPage = () => {
                                 <p className="text-gray-600 mb-6">
                                     Need immediate help? Chat with our support team directly on WhatsApp.
                                 </p>
-                                <Button className="bg-secondary hover:bg-secondary/90 text-white font-bold h-12 rounded-xl px-8">
-                                    Chat Now
-                                </Button>
+                                <Link href={APP_LINKS.WHATSAPP} target="_blank">
+                                    <Button className="bg-secondary hover:bg-secondary/90 text-white font-bold h-12 rounded-xl px-8">
+                                        Chat Now
+                                    </Button>
+                                </Link>
                             </div>
                         </motion.div>
                     </div>
