@@ -63,17 +63,69 @@ const HeroSection = () => {
                         <motion.div
                             animate={{ y: [0, -20, 0] }}
                             transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
-                            className="relative w-64 md:w-80 h-[500px] md:h-[600px] bg-gray-900 rounded-[3rem] border-8 border-gray-800 shadow-2xl overflow-hidden"
+                            className="relative w-64 md:w-80 h-125 md:h-150 bg-gray-900 rounded-[3rem] border-8 border-gray-800 shadow-2xl overflow-hidden"
                         >
-                            {/* Screen Content Placeholder */}
-                            <div className="absolute inset-0 bg-primary/5 flex flex-col items-center justify-center p-6 text-center">
-                                <div className="w-12 h-12 bg-primary rounded-xl mb-4 flex items-center justify-center">
-                                    <span className="text-white font-bold">KB</span>
+                            {/* Screen Content Mockup */}
+                            <div className="absolute inset-0 bg-gray-50 flex flex-col">
+                                {/* App Header */}
+                                <div className="bg-primary px-5 pt-12 pb-4 rounded-b-3xl shadow-lg relative z-10">
+                                    <div className="flex items-center justify-between">
+                                        <div className="flex items-center gap-3">
+                                            <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center shadow-md">
+                                                <span className="text-primary font-bold text-lg">KB</span>
+                                            </div>
+                                            <div>
+                                                <h3 className="text-white font-bold text-lg leading-tight">कारोbaar</h3>
+                                                <p className="text-primary-foreground/80 text-xs">Glass Wholesalers</p>
+                                            </div>
+                                        </div>
+                                        <div className="w-8 h-8 bg-white/20 rounded-full flex items-center justify-center backdrop-blur-md">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9" /><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0" /></svg>
+                                        </div>
+                                    </div>
                                 </div>
-                                <h3 className="text-gray-900 font-bold mb-2 text-xl">कारोbaar App</h3>
-                                <p className="text-gray-500 text-sm">GST Invoice Generated Successfully!</p>
-                                <div className="w-full h-40 bg-white rounded-lg mt-6 border border-gray-100 shadow-sm" />
-                                <div className="w-full h-20 bg-primary/10 rounded-lg mt-4" />
+
+                                {/* Scrollable Body */}
+                                <div className="flex-1 p-5 overflow-hidden flex flex-col gap-4">
+                                    {/* Stats Row */}
+                                    <div className="grid grid-cols-2 gap-3">
+                                        <div className="bg-white p-3 rounded-2xl shadow-sm border border-gray-100">
+                                            <p className="text-gray-500 text-xs font-medium mb-1">Today's Sales</p>
+                                            <p className="text-gray-900 font-extrabold text-lg">₹ 45,200</p>
+                                        </div>
+                                        <div className="bg-white p-3 rounded-2xl shadow-sm border border-gray-100">
+                                            <p className="text-gray-500 text-xs font-medium mb-1">To Collect</p>
+                                            <p className="text-red-500 font-extrabold text-lg">₹ 12,850</p>
+                                        </div>
+                                    </div>
+
+                                    {/* Recent Invoice Card */}
+                                    <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-4 relative overflow-hidden">
+                                        <div className="absolute top-0 right-0 bg-green-100 text-green-700 text-[10px] px-3 py-1 font-bold rounded-bl-xl">PAID</div>
+                                        <div className="flex items-center gap-3 mb-3">
+                                            <div className="w-8 h-8 rounded-full bg-indigo-50 flex items-center justify-center text-indigo-600 font-bold text-xs">RM</div>
+                                            <div>
+                                                <p className="text-gray-900 font-bold text-sm">Rahul Merchants</p>
+                                                <p className="text-gray-400 text-xs">Inv #KB-1042</p>
+                                            </div>
+                                        </div>
+                                        <div className="flex justify-between items-end mt-4 pt-3 border-t border-gray-50">
+                                            <p className="text-gray-400 text-xs">12 items • GST Included</p>
+                                            <p className="text-gray-900 font-bold text-base">₹ 8,450</p>
+                                        </div>
+                                    </div>
+
+                                    {/* Quick Actions */}
+                                    <div className="mt-auto bg-gray-900 text-white rounded-2xl p-4 shadow-xl flex justify-between items-center">
+                                        <div>
+                                            <p className="font-bold text-sm mb-1">Create Invoice</p>
+                                            <p className="text-gray-400 text-xs">Generate GST bill in 10s</p>
+                                        </div>
+                                        <div className="w-10 h-10 bg-primary rounded-xl flex items-center justify-center shadow-lg">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="M5 12h14"/><path d="M12 5v14"/></svg>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
 
                             {/* Speaker & Camera */}
