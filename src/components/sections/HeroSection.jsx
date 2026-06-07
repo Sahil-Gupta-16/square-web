@@ -28,7 +28,7 @@ const HeroSection = () => {
                             />
 
                             <p className="text-xl md:text-2xl text-gray-600 mb-8 font-medium">
-                                Master Units • GST Invoices • Real-time Inventory
+                                Master Units • Professional Invoicing • Real-time Inventory
                             </p>
 
                             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
@@ -110,7 +110,7 @@ const HeroSection = () => {
                                             </div>
                                         </div>
                                         <div className="flex justify-between items-end mt-4 pt-3 border-t border-gray-50">
-                                            <p className="text-gray-400 text-xs">12 items • GST Included</p>
+                                            <p className="text-gray-400 text-xs">12 items • Tax Included</p>
                                             <p className="text-gray-900 font-bold text-base">₹ 8,450</p>
                                         </div>
                                     </div>
@@ -119,7 +119,7 @@ const HeroSection = () => {
                                     <div className="mt-auto bg-gray-900 text-white rounded-2xl p-4 shadow-xl flex justify-between items-center">
                                         <div>
                                             <p className="font-bold text-sm mb-1">Create Invoice</p>
-                                            <p className="text-gray-400 text-xs">Generate GST bill in 10s</p>
+                                            <p className="text-gray-400 text-xs">Generate bills in 10s</p>
                                         </div>
                                         <div className="w-10 h-10 bg-primary rounded-xl flex items-center justify-center shadow-lg">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="M5 12h14"/><path d="M12 5v14"/></svg>

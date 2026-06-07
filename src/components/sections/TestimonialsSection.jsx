@@ -15,7 +15,7 @@ const testimonials = [
     {
         name: "Amit Sharma",
         role: "Managing Director, Glass Pro India",
-        content: "The GST invoicing is so simple that even my junior staff can generate professional bills now. Highly recommended for any wholesaler.",
+        content: "The invoicing is so simple that even my junior staff can generate professional bills now. Highly recommended for any wholesaler.",
         location: "Mumbai",
     },
     {

@@ -27,8 +27,8 @@ const featureList = [
         color: "bg-green-500",
     },
     {
-        title: "Smart GST Invoicing",
-        description: "Generate professional GST compliant invoices in seconds. Mobile-ready PDF export.",
+        title: "Smart Invoicing",
+        description: "Generate professional, beautiful invoices in seconds. Mobile-ready PDF export.",
         icon: FileText,
         color: "bg-purple-500",
     },
@@ -78,7 +78,7 @@ const FeaturesSection = () => {
                     </motion.h2>
                     <p className="text-xl text-gray-600 max-w-2xl mx-auto">
                         Experience the power of a tool that actually speaks your language.
-                        From master units to GST, we've got you covered.
+                        From master units to custom billing, we've got you covered.
                     </p>
                 </div>
 

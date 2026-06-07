@@ -40,7 +40,7 @@ const PrivacyPolicy = () => {
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
                                     <div>
                                         <p className="font-bold text-gray-900 text-base">Gandhiva Technologies</p>
-                                        <p>Registered Address: Thane, Mumbai, Maharashtra, India - 400604</p>
+
                                         <p>Owner: Vinayak Yadav</p>
                                     </div>
                                     <div className="space-y-1">
@@ -101,7 +101,7 @@ const PrivacyPolicy = () => {
                                         <li>Name and business name</li>
                                         <li>Mobile number & Email address</li>
                                         <li>Business address</li>
-                                        <li>GST number (if provided)</li>
+                                        <li>Tax identification number (if provided)</li>
                                         <li>MSME registration details (if applicable)</li>
                                         <li>FSSAI license details (if applicable)</li>
                                         <li>Customer/Party information (names, contact details)</li>
@@ -315,14 +315,14 @@ const PrivacyPolicy = () => {
                                         <li>Creating invoices with automatic unit conversions</li>
                                         <li>Managing inventory for Glass, Aluminum, etc.</li>
                                         <li>Tracking stock levels & generating alerts</li>
-                                        <li>GST-compliant invoices & business reports</li>
+                                        <li>Professional invoices & business reports</li>
                                     </ul>
                                 </div>
                                 <div className="space-y-4">
                                     <h3 className="font-bold text-gray-900 underline">2. Authentication and Verification</h3>
                                     <ul className="list-disc pl-6 space-y-1 text-xs">
                                         <li>Authentication using One Time Password (OTP)</li>
-                                        <li>Verification with government/GST authorities</li>
+                                        <li>Verification with government authorities</li>
                                         <li>MSME registration & Bureau checks</li>
                                     </ul>
                                 </div>
@@ -359,7 +359,7 @@ const PrivacyPolicy = () => {
                             <div className="space-y-6">
                                 <div className="space-y-4">
                                     <h3 className="font-bold text-gray-900">1. Disclosure with Government Authorities</h3>
-                                    <p className="text-sm">Personal Information may be shared with government authorities including <span className="font-bold">GST Authority, MSME Authority, FSSAI Authority, and Income Tax Department</span> to enable providing Products and Services and government registrations.</p>
+                                    <p className="text-sm">Personal Information may be shared with government authorities including <span className="font-bold">MSME Authority, FSSAI Authority, and Income Tax Department</span> to enable providing Products and Services and government registrations.</p>
                                 </div>
                                 <div className="space-y-4">
                                     <h3 className="font-bold text-gray-900">2. Disclosure to Third-Party Service Providers</h3>

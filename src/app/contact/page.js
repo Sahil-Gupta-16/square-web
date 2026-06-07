@@ -2,89 +2,99 @@
 
 import React from "react";
 import { motion } from "framer-motion";
-import ContactForm from "@/components/forms/ContactForm";
-import { Mail, Phone, MapPin, MessageCircle } from "lucide-react";
+import { Mail, Phone, MessageCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { APP_LINKS } from "@/constants/links";
 import Link from "next/link";
 
 const ContactPage = () => {
+    const contactMethods = [
+        {
+            title: "Email Us",
+            description: "Drop us a line and we'll get back to you within 24 hours.",
+            value: "gandhivatechnologies@gmail.com",
+            href: "mailto:gandhivatechnologies@gmail.com",
+            icon: Mail,
+            color: "text-blue-500",
+            bg: "bg-blue-50",
+            actionText: "Send Email"
+        },
+        {
+            title: "Call Us",
+            description: "Talk to us directly for any support or enterprise inquiries.",
+            value: "+91 83038 07051",
+            href: "tel:+918303807051",
+            icon: Phone,
+            color: "text-primary",
+            bg: "bg-primary/5",
+            actionText: "Call Now"
+        },
+        {
+            title: "WhatsApp Chat",
+            description: "Get instant support and message our team in real-time.",
+            value: "WhatsApp Support",
+            href: APP_LINKS.WHATSAPP,
+            icon: MessageCircle,
+            color: "text-green-500",
+            bg: "bg-green-50",
+            actionText: "Start Chat"
+        }
+    ];
+
     return (
-        <div className="pt-32 pb-24 bg-gray-50/50 min-h-screen">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
-                    {/* Contact Info */}
-                    <div>
-                        <motion.div
-                            initial={{ opacity: 0, x: -30 }}
-                            animate={{ opacity: 1, x: 0 }}
-                            transition={{ duration: 0.5 }}
-                        >
-                            <h1 className="text-4xl md:text-6xl font-extrabold text-gray-900 mb-6">
-                                Let's Build Something <span className="text-primary">Great Together</span>
-                            </h1>
-                            <p className="text-xl text-gray-600 mb-12 leading-relaxed">
-                                Whether you have a question about features or need a custom demo,
-                                our team is ready to help your business scale with Karobaar ERP.
-                            </p>
-
-                            <div className="space-y-8 mb-12">
-                                <div className="flex items-start gap-4">
-                                    <div className="w-12 h-12 rounded-2xl bg-white shadow-md flex items-center justify-center text-primary shrink-0">
-                                        <Mail className="w-6 h-6" />
-                                    </div>
-                                    <div>
-                                        <h4 className="font-bold text-gray-900 mb-1">Email Us</h4>
-                                        <p className="text-gray-600">gandhivatechnologies@gmail.com</p>
-                                    </div>
-                                </div>
-
-                                <div className="flex items-start gap-4">
-                                    <div className="w-12 h-12 rounded-2xl bg-white shadow-md flex items-center justify-center text-primary shrink-0">
-                                        <Phone className="w-6 h-6" />
-                                    </div>
-                                    <div>
-                                        <h4 className="font-bold text-gray-900 mb-1">Call Us</h4>
-                                        <p className="text-gray-600">+91 83038 07051</p>
-                                    </div>
-                                </div>
-
-                                <div className="flex items-start gap-4">
-                                    <div className="w-12 h-12 rounded-2xl bg-white shadow-md flex items-center justify-center text-primary shrink-0">
-                                        <MapPin className="w-6 h-6" />
-                                    </div>
-                                    <div>
-                                        <h4 className="font-bold text-gray-900 mb-1">Visit Us</h4>
-                                        <p className="text-gray-600">Thane, Mumbai, Maharashtra, 400604</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="p-8 rounded-[2.5rem] bg-secondary/10 border border-secondary/20">
-                                <h4 className="text-2xl font-bold text-gray-900 mb-4 flex items-center gap-3">
-                                    <MessageCircle className="text-secondary" />
-                                    WhatsApp Support
-                                </h4>
-                                <p className="text-gray-600 mb-6">
-                                    Need immediate help? Chat with our support team directly on WhatsApp.
-                                </p>
-                                <Link href={APP_LINKS.WHATSAPP} target="_blank">
-                                    <Button className="bg-secondary hover:bg-secondary/90 text-white font-bold h-12 rounded-xl px-8">
-                                        Chat Now
-                                    </Button>
-                                </Link>
-                            </div>
-                        </motion.div>
-                    </div>
-
-                    {/* Form */}
-                    <motion.div
-                        initial={{ opacity: 0, x: 30 }}
-                        animate={{ opacity: 1, x: 0 }}
-                        transition={{ duration: 0.5, delay: 0.2 }}
+        <div className="pt-32 pb-24 bg-gradient-to-b from-gray-50 to-white min-h-screen">
+            <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+                {/* Header */}
+                <div className="text-center mb-16">
+                    <motion.h1
+                        initial={{ opacity: 0, y: 20 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ duration: 0.5 }}
+                        className="text-4xl md:text-6xl font-extrabold text-gray-900 mb-6"
                     >
-                        <ContactForm />
-                    </motion.div>
+                        Get in <span className="text-primary">Touch</span>
+                    </motion.h1>
+                    <motion.p
+                        initial={{ opacity: 0, y: 20 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ duration: 0.5, delay: 0.1 }}
+                        className="text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed"
+                    >
+                        Have questions about features, pricing, or need help setting up?
+                        Our team is ready to help your business scale with Karobaar ERP.
+                    </motion.p>
+                </div>
+
+                {/* Contact Cards Grid */}
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+                    {contactMethods.map((method, index) => (
+                        <motion.div
+                            key={index}
+                            initial={{ opacity: 0, y: 30 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.5, delay: 0.2 + index * 0.1 }}
+                            whileHover={{ y: -8, transition: { duration: 0.2 } }}
+                            className="bg-white p-8 rounded-[2.5rem] border border-gray-100 shadow-xl shadow-gray-100/50 flex flex-col justify-between"
+                        >
+                            <div>
+                                <div className={`w-14 h-14 rounded-2xl ${method.bg} ${method.color} flex items-center justify-center mb-6`}>
+                                    <method.icon className="w-7 h-7" />
+                                </div>
+                                <h3 className="text-2xl font-bold text-gray-900 mb-2">{method.title}</h3>
+                                <p className="text-gray-500 text-sm mb-6 leading-relaxed">{method.description}</p>
+                                <p className="text-gray-900 font-bold mb-8 break-all">{method.value}</p>
+                            </div>
+                            <Link href={method.href} target="_blank">
+                                <Button className={`w-full py-6 rounded-2xl font-bold shadow-md ${
+                                    method.title === "WhatsApp Chat" 
+                                        ? "bg-green-500 hover:bg-green-600 shadow-green-100" 
+                                        : "bg-primary hover:bg-primary/90 shadow-primary/10"
+                                }`}>
+                                    {method.actionText}
+                                </Button>
+                            </Link>
+                        </motion.div>
+                    ))}
                 </div>
             </div>
         </div>

@@ -2,7 +2,7 @@
 
 import React from "react";
 import { motion } from "framer-motion";
-import { Users, Target, Rocket, Award } from "lucide-react";
+import { Users, Target, Rocket, Award, Sparkles, Quote, Heart } from "lucide-react";
 
 const AboutPage = () => {
     const values = [
@@ -70,34 +70,87 @@ const AboutPage = () => {
                     ))}
                 </div>
 
-                <div className="bg-primary rounded-[3rem] p-8 md:p-16 text-white grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-                    <div>
-                        <h2 className="text-3xl md:text-5xl font-bold mb-6">Designed by Developers, Built for Wholesale</h2>
-                        <p className="text-xl text-primary-foreground/90 leading-relaxed mb-8">
-                            We spent months visiting various shops and warehouses to understand the real-world
-                            challenges of inventory management. Every feature in Karobaar ERP is a direct
-                            response to those conversations.
-                        </p>
-                        <div className="flex gap-4">
-                            <div className="text-center bg-white/10 backdrop-blur-md p-4 rounded-2xl min-w-[100px]">
-                                <div className="text-3xl font-bold">500+</div>
-                                <div className="text-xs text-primary-foreground/70 uppercase tracking-wider">Shops</div>
+                <div className="bg-gradient-to-br from-primary to-blue-900 rounded-[3rem] p-8 md:p-16 text-white grid grid-cols-1 lg:grid-cols-12 gap-12 items-center shadow-2xl shadow-primary/20 relative overflow-hidden">
+                    {/* Decorative Background Blobs */}
+                    <div className="absolute -top-12 -right-12 w-64 h-64 bg-blue-500/20 rounded-full blur-3xl pointer-events-none" />
+                    <div className="absolute -bottom-12 -left-12 w-64 h-64 bg-indigo-500/20 rounded-full blur-3xl pointer-events-none" />
+
+                    {/* Left content (Founder's Note) */}
+                    <div className="lg:col-span-7 space-y-6 relative z-10">
+                        <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-md text-blue-200 text-sm font-semibold border border-white/10">
+                            <Sparkles className="w-4 h-4 text-blue-300" />
+                            <span>Founder's Note</span>
+                        </div>
+                        <h2 className="text-3xl md:text-5xl font-extrabold tracking-tight leading-tight">
+                            Designed by Developers,<br />
+                            <span className="text-blue-300">Built for Wholesalers</span>
+                        </h2>
+                        <div className="space-y-4 text-lg text-primary-foreground/90 leading-relaxed font-light">
+                            <p>
+                                As developers, we realized that traditional wholesale businesses were left behind by modern software. We saw shop owners struggling with manual registers and rigid, outdated ERPs that didn't fit their unique workflows.
+                            </p>
+                            <p>
+                                That's why we built Karobaar ERP—not just as an accounting tool, but as a growth partner. We designed it from the ground up to be simple, lightning-fast, and mobile-first, ensuring you can manage your entire business seamlessly, right from the palm of your hand.
+                            </p>
+                        </div>
+
+                        {/* Signature Block */}
+                        <div className="pt-6 border-t border-white/10 flex flex-col sm:flex-row sm:items-center justify-between gap-6">
+                            <div className="flex items-center gap-4">
+                                <div className="w-14 h-14 rounded-2xl bg-white/10 backdrop-blur-md flex items-center justify-center text-xl font-bold font-serif italic text-blue-200 border border-white/20">
+                                    VY
+                                </div>
+                                <div>
+                                    <h4 className="font-bold text-xl text-white">Vinayak Yadav</h4>
+                                    <p className="text-xs text-blue-300 uppercase tracking-widest font-semibold">Founder, Karobaar ERP</p>
+                                </div>
                             </div>
-                            <div className="text-center bg-white/10 backdrop-blur-md p-4 rounded-2xl min-w-[100px]">
-                                <div className="text-3xl font-bold">1M+</div>
-                                <div className="text-xs text-primary-foreground/70 uppercase tracking-wider">Invoices</div>
+                            <div className="flex gap-4">
+                                <div className="text-center bg-white/10 backdrop-blur-md px-6 py-3 rounded-2xl border border-white/10 min-w-[100px]">
+                                    <div className="text-2xl font-bold">500+</div>
+                                    <div className="text-[10px] text-blue-200 uppercase tracking-wider font-semibold">Shops Scaled</div>
+                                </div>
+                                <div className="text-center bg-white/10 backdrop-blur-md px-6 py-3 rounded-2xl border border-white/10 min-w-[100px]">
+                                    <div className="text-2xl font-bold">1M+</div>
+                                    <div className="text-[10px] text-blue-200 uppercase tracking-wider font-semibold">Invoices Saved</div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div className="relative">
-                        <div className="aspect-square bg-white rounded-3xl overflow-hidden shadow-2xl">
-                            {/* Founder Image Placeholder */}
-                            <div className="absolute inset-0 bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center">
-                                <Users size={100} className="text-gray-300" />
-                            </div>
-                            <div className="absolute bottom-0 left-0 right-0 p-6 bg-black/60 backdrop-blur-md">
-                                <p className="text-white font-bold text-xl">Founder's Note</p>
-                                <p className="text-gray-300 text-sm italic">"Our goal is to bring the efficiency of modern tech to every corner of the traditional wholesale market."</p>
+
+                    {/* Right column (Premium Vision Card) */}
+                    <div className="lg:col-span-5 relative z-10 w-full flex justify-center">
+                        <div className="relative w-full max-w-sm">
+                            {/* Soft light reflection backplate */}
+                            <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-indigo-500 rounded-[2.5rem] blur-xl opacity-30 transform rotate-3" />
+                            
+                            <div className="relative bg-white/5 backdrop-blur-xl border border-white/15 p-8 rounded-[2.5rem] shadow-2xl overflow-hidden flex flex-col justify-between min-h-[350px]">
+                                {/* Quote mark watermark */}
+                                <Quote className="absolute -top-4 -right-4 w-32 h-32 text-white/5 rotate-12 pointer-events-none" />
+
+                                <div className="space-y-6">
+                                    <div className="flex items-center gap-2">
+                                        <div className="w-3 h-3 rounded-full bg-red-400" />
+                                        <div className="w-3 h-3 rounded-full bg-yellow-400" />
+                                        <div className="w-3 h-3 rounded-full bg-green-400" />
+                                    </div>
+
+                                    <div className="relative">
+                                        <Quote className="w-8 h-8 text-blue-300/40 mb-3" />
+                                        <p className="text-blue-50/90 italic leading-relaxed text-base font-light">
+                                            "Our goal is to bring the power of modern technology to every corner of the traditional wholesale market. We spent months standing in noisy warehouses to understand the real-world challenges, making sure our tools solve actual problems."
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div className="pt-6 mt-6 border-t border-white/10 flex flex-wrap gap-2">
+                                    <span className="text-xs bg-white/10 text-blue-200 px-3 py-1.5 rounded-full font-semibold border border-white/5">
+                                        🇮🇳 100% Indian-Built
+                                    </span>
+                                    <span className="text-xs bg-white/10 text-blue-200 px-3 py-1.5 rounded-full font-semibold border border-white/5">
+                                        💻 Developer-First
+                                    </span>
+                                </div>
                             </div>
                         </div>
                     </div>

@@ -15,8 +15,8 @@ const faqs = [
         answer: "Karobaar ERP is specially designed for the wholesale industry. It fully supports Master Units (1/16 inch), SUT units, and metric systems. You can switch between them seamlessly.",
     },
     {
-        question: "Is the app GST compliant?",
-        answer: "Yes, absolutely. You can generate professional GST-compliant invoices in seconds. The app handles SGST, CGST, and IGST calculations automatically based on your business location.",
+        question: "How does the invoicing feature work?",
+        answer: "You can generate professional, beautiful invoices in seconds. Customize itemized details, discounts, taxes, and payment instructions. Once generated, invoices can be exported as high-quality PDFs and shared directly via WhatsApp or email.",
     },
     {
         question: "Does it work offline?",

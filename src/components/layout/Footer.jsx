@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { Facebook, Twitter, Instagram, Linkedin, Mail, Phone, MapPin, MessageCircle } from "lucide-react";
+import { Facebook, Twitter, Instagram, Linkedin, Mail, Phone, MessageCircle } from "lucide-react";
 import { APP_LINKS } from "@/constants/links";
 
 const Footer = () => {
@@ -79,10 +79,7 @@ const Footer = () => {
                                 <Mail className="w-4 h-4 text-primary shrink-0" />
                                 <a href="mailto:gandhivatechnologies@gmail.com" className="text-gray-600 hover:text-primary text-sm transition-colors">gandhivatechnologies@gmail.com</a>
                             </li>
-                            <li className="flex items-start gap-3 mt-1">
-                                <MapPin className="w-4 h-4 text-primary shrink-0" />
-                                <span className="text-gray-600 text-sm">Thane, Mumbai, Maharashtra, 400604</span>
-                            </li>
+
                         </ul>
                     </div>
                 </div>

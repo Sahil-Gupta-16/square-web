@@ -12,7 +12,6 @@ The terms used in this Privacy Policy ("Policy") have the meaning as defined in 
 **Developer Information:**
 
 **Gandhiva Technologies**  
-Registered Address: Thane, Mumbai, Maharashtra, India - 400604  
 Email: gandhivatechnologies@gmail.com  
 Phone: +91 83038 07051  
 Owner: Vinayak Yadav
@@ -55,7 +54,7 @@ For the purpose of these Terms, "Personal Information" shall mean any informatio
 - Mobile number
 - Email address
 - Business address
-- GST number (if provided)
+- Tax identification number (if provided)
 - MSME registration details (if applicable)
 - FSSAI license details (if applicable)
 - Customer/Party information (names, contact details, addresses)
@@ -63,7 +62,7 @@ For the purpose of these Terms, "Personal Information" shall mean any informatio
 - Invoice and transaction records
 - Payment information (amounts, dates, payment methods)
 - User content including notes, custom fields, and descriptions
-- One Time Password (OTP) received from government authorities/GST authority for authenticating/verifying registration processes
+- One Time Password (OTP) received from government authorities for authenticating/verifying registration processes
 
 **Non-Personal Information**
 
@@ -287,13 +286,13 @@ The Company may use the Information for:
 - Managing inventory for Glass, Aluminum, Hardware, and Other categories
 - Tracking stock levels and generating alerts
 - Managing customer/supplier information
-- Generating GST-compliant invoices
+- Generating professional invoices
 - Creating business reports and analytics
 - Calculating dimensions and quantities
 
 ### 2. Authentication and Verification
 - Authentication using One Time Password (OTP) for login and security
-- Verification with government authorities/GST authority for authenticating GST registration process
+- Verification with government authorities for registration processes
 - MSME registration verification
 - FSSAI license verification
 - Bureau checks or any other product/service availed by you from time to time
@@ -339,13 +338,12 @@ The Company may disclose or share Personal Information including but not limited
 
 Information including Personal Information may be shared with and disclosed to government authorities including but not limited to:
 
-- **Goods and Service Tax (GST) Authority**: For GST registration, return filing, invoice authentication, and tax compliance
 - **MSME Authority**: For MSME registration and certification processes
 - **FSSAI Authority**: For food safety license verification (if applicable)
 - **Income Tax Department**: For tax compliance and reporting
 - **Other Statutory Authorities**: As required by law
 
-This sharing is necessary to enable providing the Products and Services, particularly GST-compliant invoicing and government registrations.
+This sharing is necessary to enable providing the Products and Services and government registrations.
 
 ### 2. Disclosure to Government Authorities or as Required by Law
 
