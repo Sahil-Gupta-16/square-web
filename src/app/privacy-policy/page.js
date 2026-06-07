@@ -13,7 +13,7 @@ const PrivacyPolicy = () => {
                     transition={{ duration: 0.5 }}
                 >
                     <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-4">
-                        Privacy Policy for कारोबार (कारोbaar)
+                        Privacy Policy for Karobaar ERP
                     </h1>
                     <div className="flex flex-wrap gap-4 mb-12">
                         <p className="text-gray-500 py-2 px-4 bg-gray-50 rounded-lg text-sm font-medium border border-gray-100">
@@ -32,7 +32,7 @@ const PrivacyPolicy = () => {
                         <section>
                             <h2 className="text-2xl font-bold text-gray-900 mb-6 border-b pb-2">About This Privacy Policy</h2>
                             <p className="leading-relaxed text-lg mb-6">
-                                The terms used in this Privacy Policy ("Policy") have the meaning as defined in the Terms of Use and should be read together with the Terms of Use. This Policy explains how <span className="font-bold">Gandhiva Technologies</span> ("the Company", "we", "us", "our") collects, uses, discloses, shares and transfers information of Users. This Policy applies to anybody who downloads the <span className="font-bold">कारोबार</span> mobile application or opens an account with the Company.
+                                The terms used in this Privacy Policy ("Policy") have the meaning as defined in the Terms of Use and should be read together with the Terms of Use. This Policy explains how <span className="font-bold">Gandhiva Technologies</span> ("the Company", "we", "us", "our") collects, uses, discloses, shares and transfers information of Users. This Policy applies to anybody who downloads the <span className="font-bold">Karobaar ERP</span> mobile application or opens an account with the Company.
                             </p>
 
                             <div className="bg-gray-50 p-8 rounded-3xl border border-gray-100 mb-8">
@@ -51,13 +51,13 @@ const PrivacyPolicy = () => {
                             </div>
 
                             <p className="leading-relaxed mb-4">
-                                The Company recognizes the need for appropriate protection and management of any information shared with the Company or on the कारोबार application.
+                                The Company recognizes the need for appropriate protection and management of any information shared with the Company or on the Karobaar ERP application.
                             </p>
                             <p className="leading-relaxed mb-4">
-                                By using or accessing the कारोबार application in any manner or opening an Account, you acknowledge that you have read and accepted this Policy and consent that the Company will collect, use, disclose, share and transfer information and personal data including but not limited to sensitive Personal Information. This Policy is an electronic record in the form of an electronic contract formed under the <span className="font-bold">Information Technology Act, 2000</span> and the rules made thereunder and the <span className="font-bold">Digital Personal Data Protection Act, 2023</span>.
+                                By using or accessing the Karobaar ERP application in any manner or opening an Account, you acknowledge that you have read and accepted this Policy and consent that the Company will collect, use, disclose, share and transfer information and personal data including but not limited to sensitive Personal Information. This Policy is an electronic record in the form of an electronic contract formed under the <span className="font-bold">Information Technology Act, 2000</span> and the rules made thereunder and the <span className="font-bold">Digital Personal Data Protection Act, 2023</span>.
                             </p>
                             <p className="leading-relaxed mb-4">
-                                However, if you do not intend to share the Information as referred herein for use by the Company, you are free to opt-out or not use the कारोबार application and/or the Products and Services by deleting the Account, and in such a case, you are not required to give consent as per this Privacy Policy.
+                                However, if you do not intend to share the Information as referred herein for use by the Company, you are free to opt-out or not use the Karobaar ERP application and/or the Products and Services by deleting the Account, and in such a case, you are not required to give consent as per this Privacy Policy.
                             </p>
                             <p className="leading-relaxed">
                                 If in future you feel that the Information or any part thereof as collected should not be used or should be deleted, consent granted in this Policy can be withdrawn by writing to the Company seeking to withdraw the consent or by deleting the Account. However, if you withdraw consent for the Company to use the Information as provided in this Policy, the Products and Services cannot be offered to you by the Company.
@@ -76,7 +76,7 @@ const PrivacyPolicy = () => {
                         <section>
                             <h2 className="text-2xl font-bold text-gray-900 mb-6 border-b pb-2">When This Privacy Statement Applies</h2>
                             <p className="leading-relaxed text-lg">
-                                This liability to you is limited to those who have downloaded the कारोबार application and logged in by clicking on the "I Agree/Login" button for Terms and Conditions or have explicitly consented to the policy on any other product/service page offered to you.
+                                This liability to you is limited to those who have downloaded the Karobaar ERP application and logged in by clicking on the "I Agree/Login" button for Terms and Conditions or have explicitly consented to the policy on any other product/service page offered to you.
                             </p>
                         </section>
 
@@ -87,7 +87,7 @@ const PrivacyPolicy = () => {
                             <div className="space-y-4">
                                 <h3 className="text-xl font-bold text-gray-900">1. Collection of Information</h3>
                                 <p className="leading-relaxed">
-                                    The Company collects, uses, discloses, shares and transfers Information, including but not limited to User content, other content, communications, information etc. provided by Users when the Users access or use the कारोबार application for the Products and Services. By use of the कारोबार application and/or Products and Services, express consent and permission is granted to the Company for having access to, using, processing, disclosing, sharing and transferring of information in accordance with this Policy and the Terms of Use.
+                                    The Company collects, uses, discloses, shares and transfers Information, including but not limited to User content, other content, communications, information etc. provided by Users when the Users access or use the Karobaar ERP application for the Products and Services. By use of the Karobaar ERP application and/or Products and Services, express consent and permission is granted to the Company for having access to, using, processing, disclosing, sharing and transferring of information in accordance with this Policy and the Terms of Use.
                                 </p>
                             </div>
 
@@ -131,7 +131,7 @@ const PrivacyPolicy = () => {
                                     </ul>
                                 </div>
                                 <p className="text-sm italic p-4 bg-gray-50 rounded-xl">
-                                    The Company may collect Information when registration or opening of an Account happens on the कारोबार application, when features or Products and Services are used, when you share User content with the Company, and when you interact with the customer support team including the details of messages or chats.
+                                    The Company may collect Information when registration or opening of an Account happens on the Karobaar ERP application, when features or Products and Services are used, when you share User content with the Company, and when you interact with the customer support team including the details of messages or chats.
                                 </p>
                             </div>
 
@@ -152,7 +152,7 @@ const PrivacyPolicy = () => {
                             <div className="space-y-4">
                                 <h3 className="text-xl font-bold text-gray-900">5. Usage Information</h3>
                                 <p className="leading-relaxed">
-                                    The Company collects information about your use of the कारोबार application and/or Products and Services, such as features used (invoice creation, inventory management, reports), activity carried out, time, frequency and duration of activities, screens viewed, navigation patterns, error logs, and performance data.
+                                    The Company collects information about your use of the Karobaar ERP application and/or Products and Services, such as features used (invoice creation, inventory management, reports), activity carried out, time, frequency and duration of activities, screens viewed, navigation patterns, error logs, and performance data.
                                 </p>
                             </div>
 
@@ -180,7 +180,7 @@ const PrivacyPolicy = () => {
                                         <li>Data from local storage on devices</li>
                                     </ul>
                                     <p className="font-bold text-gray-900">c. Location-Related Information:</p>
-                                    <p className="text-sm">Location-related information such as approximate location to provide personalized and improved use of the कारोबार application. Location-related information can be based on things such as IP addresses, network information, or mobile operator information. <span className="font-bold">We do not collect precise GPS location data.</span></p>
+                                    <p className="text-sm">Location-related information such as approximate location to provide personalized and improved use of the Karobaar ERP application. Location-related information can be based on things such as IP addresses, network information, or mobile operator information. <span className="font-bold">We do not collect precise GPS location data.</span></p>
                                 </div>
                             </div>
                         </section>
@@ -203,9 +203,9 @@ const PrivacyPolicy = () => {
                                 </div>
                             </div>
                             <div className="bg-gray-900 text-white p-8 rounded-3xl">
-                                <h3 className="text-lg font-bold mb-4">How कारोबार Stores and Shares Google User Data</h3>
+                                <h3 className="text-lg font-bold mb-4">How Karobaar ERP Stores and Shares Google User Data</h3>
                                 <p className="leading-relaxed text-sm opacity-90">
-                                    <span className="font-bold underline text-white">कारोबार does not store any Google user data on our servers.</span> Whenever कारोबार fetches this data, it gets shown to you while using the feature. You choose the data you want to use for import and that gets used to create customers/vendors for you in the software. कारोबार will not store this data for any further use beyond the immediate import operation. कारोबार will also not share your Google authentication data with anyone. कारोबार will not store this data anywhere on external servers.
+                                    <span className="font-bold underline text-white">Karobaar ERP does not store any Google user data on our servers.</span> Whenever Karobaar ERP fetches this data, it gets shown to you while using the feature. You choose the data you want to use for import and that gets used to create customers/vendors for you in the software. Karobaar ERP will not store this data for any further use beyond the immediate import operation. Karobaar ERP will also not share your Google authentication data with anyone. Karobaar ERP will not store this data anywhere on external servers.
                                 </p>
                             </div>
                         </section>
@@ -290,7 +290,7 @@ const PrivacyPolicy = () => {
                         <section>
                             <h2 className="text-2xl font-bold text-gray-900 mb-6 border-b pb-2">Link to Third-Party SDK</h2>
                             <p className="leading-relaxed text-sm mb-6">
-                                The कारोबार Application may have a link to registered third-party SDKs that collect data on our behalf to perform analytics, provide crash reporting, enable cloud backup, process payments, or provide credit assessment.
+                                The Karobaar ERP Application may have a link to registered third-party SDKs that collect data on our behalf to perform analytics, provide crash reporting, enable cloud backup, process payments, or provide credit assessment.
                             </p>
                             <div className="p-6 bg-green-50/50 rounded-2xl border border-green-100 text-xs">
                                 <h3 className="font-bold text-green-900 mb-4">Security measures employed by our partners:</h3>
@@ -304,9 +304,9 @@ const PrivacyPolicy = () => {
                             </div>
                         </section>
 
-                        {/* Section: How कारोबार Uses User Data */}
+                        {/* Section: How Karobaar ERP Uses User Data */}
                         <section className="space-y-8">
-                            <h2 className="text-2xl font-bold text-gray-900 mb-6 border-b pb-2">How कारोबार Uses User Data</h2>
+                            <h2 className="text-2xl font-bold text-gray-900 mb-6 border-b pb-2">How Karobaar ERP Uses User Data</h2>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-8">
                                 <div className="space-y-4">
                                     <h3 className="font-bold text-gray-900 underline">1. Core Application Services</h3>

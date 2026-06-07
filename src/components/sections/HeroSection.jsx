@@ -23,7 +23,7 @@ const HeroSection = () => {
                             transition={{ duration: 0.5 }}
                         >
                             <TypingAnimation
-                                text="Modern Accounting for Wholesalers with कारोbaar"
+                                text="Modern Accounting for Wholesalers with Karobaar ERP"
                                 className="text-4xl md:text-6xl font-extrabold text-gray-900 leading-tight mb-6"
                             />
 
@@ -75,7 +75,7 @@ const HeroSection = () => {
                                                 <span className="text-primary font-bold text-lg">KB</span>
                                             </div>
                                             <div>
-                                                <h3 className="text-white font-bold text-lg leading-tight">कारोbaar</h3>
+                                                <h3 className="text-white font-bold text-lg leading-tight">Karobaar ERP</h3>
                                                 <p className="text-primary-foreground/80 text-xs">Glass Wholesalers</p>
                                             </div>
                                         </div>

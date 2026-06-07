@@ -25,7 +25,7 @@ const detailedFeatures = [
     },
     {
         title: "Multi-Category Inventory",
-        description: "Whether you're selling glass, aluminum sections, hardware fittings, or other wholesale items, कारोbaar handles it all with specialized templates for each category.",
+        description: "Whether you're selling glass, aluminum sections, hardware fittings, or other wholesale items, Karobaar ERP handles it all with specialized templates for each category.",
         icon: Layers,
         color: "bg-green-500",
         details: ["Glass & Mirror", "Aluminum Sections", "Hardware Fittings", "Custom Categories"],
@@ -59,7 +59,7 @@ const FeaturesPage = () => {
                         Powerful Features for <span className="text-primary">Modern Wholesalers</span>
                     </motion.h1>
                     <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-                        Every tool in कारोbaar is meticulously designed to solve the real-world
+                        Every tool in Karobaar ERP is meticulously designed to solve the real-world
                         bottlenecks in the wholesale industry.
                     </p>
                 </div>

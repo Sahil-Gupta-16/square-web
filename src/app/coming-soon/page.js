@@ -26,7 +26,7 @@ const ComingSoonPage = () => {
 
                     {/* Headline */}
                     <h1 className="text-5xl md:text-8xl font-extrabold text-gray-900 mb-8 tracking-tight">
-                        कारोbaar is <br />
+                        Karobaar ERP is <br />
                         <span className="text-primary italic">Coming Soon</span>
                     </h1>
 

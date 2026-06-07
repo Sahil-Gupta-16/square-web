@@ -25,7 +25,7 @@ const ContactPage = () => {
                             </h1>
                             <p className="text-xl text-gray-600 mb-12 leading-relaxed">
                                 Whether you have a question about features or need a custom demo,
-                                our team is ready to help your business scale with कारोbaar.
+                                our team is ready to help your business scale with Karobaar ERP.
                             </p>
 
                             <div className="space-y-8 mb-12">

@@ -9,7 +9,7 @@ const testimonials = [
     {
         name: "Rajesh Kumar",
         role: "Owner, Rajesh Glass House",
-        content: "कारोbaar changed how we do business. The master unit system is a life safer. We save at least 2 hours every day on calculations.",
+        content: "Karobaar ERP changed how we do business. The master unit system is a life safer. We save at least 2 hours every day on calculations.",
         location: "Delhi",
     },
     {

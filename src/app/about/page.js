@@ -44,7 +44,7 @@ const AboutPage = () => {
                         Our Story: Building for the <span className="text-primary">Whole Industry</span>
                     </motion.h1>
                     <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-                        कारोbaar started with a simple observation: wholesalers were struggling
+                        Karobaar ERP started with a simple observation: wholesalers were struggling
                         with complex calculations and generic accounting tools. We decided to change that.
                     </p>
                 </div>
@@ -75,7 +75,7 @@ const AboutPage = () => {
                         <h2 className="text-3xl md:text-5xl font-bold mb-6">Designed by Developers, Built for Wholesale</h2>
                         <p className="text-xl text-primary-foreground/90 leading-relaxed mb-8">
                             We spent months visiting various shops and warehouses to understand the real-world
-                            challenges of inventory management. Every feature in कारोbaar is a direct
+                            challenges of inventory management. Every feature in Karobaar ERP is a direct
                             response to those conversations.
                         </p>
                         <div className="flex gap-4">

@@ -7,11 +7,11 @@ const TermsOfService = () => {
     const sections = [
         {
             title: "1. Acceptance of Terms",
-            content: "By accessing or using the कारोbaar app and website, you agree to be bound by these Terms of Service and all applicable laws and regulations.",
+            content: "By accessing or using the Karobaar ERP app and website, you agree to be bound by these Terms of Service and all applicable laws and regulations.",
         },
         {
             title: "2. Use License",
-            content: "We grant you a personal, non-exclusive, non-transferable license to use the कारोbaar app for your internal business operations. You may not reverse engineer or attempt to extract the source code of our software.",
+            content: "We grant you a personal, non-exclusive, non-transferable license to use the Karobaar ERP app for your internal business operations. You may not reverse engineer or attempt to extract the source code of our software.",
         },
         {
             title: "3. User Accounts",
@@ -19,7 +19,7 @@ const TermsOfService = () => {
         },
         {
             title: "4. Subscription and Payments",
-            content: "Certain features of कारोbaar may require a paid subscription. All fees are non-refundable except as required by law. We reserve the right to change our pricing upon reasonable notice.",
+            content: "Certain features of Karobaar ERP may require a paid subscription. All fees are non-refundable except as required by law. We reserve the right to change our pricing upon reasonable notice.",
         },
         {
             title: "5. Data Ownership",
@@ -27,7 +27,7 @@ const TermsOfService = () => {
         },
         {
             title: "6. Limitation of Liability",
-            content: "कारोbaar shall not be liable for any indirect, incidental, or consequential damages arising out of your use or inability to use the software.",
+            content: "Karobaar ERP shall not be liable for any indirect, incidental, or consequential damages arising out of your use or inability to use the software.",
         },
         {
             title: "7. Governing Law",

@@ -47,7 +47,7 @@ const ProblemSection = () => {
                         className="text-xl text-gray-600 max-w-3xl mx-auto"
                     >
                         The wholesale industry has unique needs that standard software simply ignores.
-                        We built कारोbaar to solve these specific headaches.
+                        We built Karobaar ERP to solve these specific headaches.
                     </motion.p>
                 </div>
 

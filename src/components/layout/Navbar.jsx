@@ -40,7 +40,7 @@ const Navbar = () => {
                     <div className="flex-shrink-0 flex items-center">
                         <Link href="/" className="text-2xl font-bold text-primary flex items-center gap-2">
                             <span className="bg-primary text-white p-1 rounded-lg">KB</span>
-                            <span>कारोbaar</span>
+                            <span>Karobaar ERP</span>
                         </Link>
                     </div>
 

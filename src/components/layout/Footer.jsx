@@ -12,11 +12,11 @@ const Footer = () => {
                     <div className="col-span-1 md:col-span-1">
                         <Link href="/" className="text-xl font-bold text-primary flex items-center gap-2 mb-4">
                             <span className="bg-primary text-white p-1 rounded-lg">KB</span>
-                            <span>कारोbaar</span>
+                            <span>Karobaar ERP</span>
                         </Link>
                         <p className="text-gray-600 text-sm leading-relaxed mb-6">
                             Modern accounting and inventory management for glass and aluminum wholesalers.
-                            Simplify your business with कारोbaar.
+                            Simplify your business with Karobaar ERP.
                         </p>
                         <div className="flex space-x-4">
                             <Link href="#" className="text-gray-400 hover:text-primary transition-colors">

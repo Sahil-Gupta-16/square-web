@@ -7,7 +7,7 @@ import { UserPlus, Settings, TrendingUp } from "lucide-react";
 const steps = [
     {
         title: "Join Early Access",
-        description: "Be the first to know when कारोbaar launches in your region and get exclusive early-bird benefits.",
+        description: "Be the first to know when Karobaar ERP launches in your region and get exclusive early-bird benefits.",
         icon: UserPlus,
         color: "bg-blue-500",
     },

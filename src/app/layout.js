@@ -17,8 +17,8 @@ import { Toaster } from "sonner";
 import WhatsAppBubble from "@/components/ui/WhatsAppBubble";
 
 export const metadata = {
-  title: "कारोbaar | Modern Accounting for Wholesalers",
-  description: "Simplify your wholesale business with कारोbaar. Master units, GST invoices, and real-time inventory management.",
+  title: "Karobaar ERP | Modern Accounting for Wholesalers",
+  description: "Simplify your wholesale business with Karobaar ERP. Master units, GST invoices, and real-time inventory management.",
 };
 
 export default function RootLayout({ children }) {
