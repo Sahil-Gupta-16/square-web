@@ -1,4 +1,4 @@
-# Privacy Policy for Karobaar ERP
+# Privacy Policy for Karobar
 
 **Effective Date**: February 5, 2026  
 **Last Updated**: February 5, 2026
@@ -7,7 +7,7 @@
 
 ## About This Privacy Policy
 
-The terms used in this Privacy Policy ("Policy") have the meaning as defined in the Terms of Use and should be read together with the Terms of Use. This Policy explains how **Gandhiva Technologies** ("the Company", "we", "us", "our") collects, uses, discloses, shares and transfers information of Users. This Policy applies to anybody who downloads the **Karobaar ERP** mobile application or opens an account with the Company.
+The terms used in this Privacy Policy ("Policy") have the meaning as defined in the Terms of Use and should be read together with the Terms of Use. This Policy explains how **Gandhiva Technologies** ("the Company", "we", "us", "our") collects, uses, discloses, shares and transfers information of Users. This Policy applies to anybody who downloads the **Karobar** mobile application or opens an account with the Company.
 
 **Developer Information:**
 
@@ -16,11 +16,11 @@ Email: gandhivatechnologies@gmail.com
 Phone: +91 83038 07051  
 Owner: Vinayak Yadav
 
-The Company recognizes the need for appropriate protection and management of any information shared with the Company or on the Karobaar ERP application.
+The Company recognizes the need for appropriate protection and management of any information shared with the Company or on the Karobar application.
 
-By using or accessing the Karobaar ERP application in any manner or opening an Account, you acknowledge that you have read and accepted this Policy and consent that the Company will collect, use, disclose, share and transfer information and personal data including but not limited to sensitive Personal Information. This Policy is an electronic record in the form of an electronic contract formed under the **Information Technology Act, 2000** and the rules made thereunder and the **Digital Personal Data Protection Act, 2023**.
+By using or accessing the Karobar application in any manner or opening an Account, you acknowledge that you have read and accepted this Policy and consent that the Company will collect, use, disclose, share and transfer information and personal data including but not limited to sensitive Personal Information. This Policy is an electronic record in the form of an electronic contract formed under the **Information Technology Act, 2000** and the rules made thereunder and the **Digital Personal Data Protection Act, 2023**.
 
-However, if you do not intend to share the Information as referred herein for use by the Company, you are free to opt-out or not use the Karobaar ERP application and/or the Products and Services by deleting the Account, and in such a case, you are not required to give consent as per this Privacy Policy.
+However, if you do not intend to share the Information as referred herein for use by the Company, you are free to opt-out or not use the Karobar application and/or the Products and Services by deleting the Account, and in such a case, you are not required to give consent as per this Privacy Policy.
 
 If in future you feel that the Information or any part thereof as collected should not be used or should be deleted, consent granted in this Policy can be withdrawn by writing to the Company seeking to withdraw the consent or by deleting the Account. However, if you withdraw consent for the Company to use the Information as provided in this Policy, the Products and Services cannot be offered to you by the Company.
 
@@ -34,7 +34,7 @@ These policies may be updated from time to time in the future. You should agree 
 
 ## When This Privacy Statement Applies
 
-This liability to you is limited to those who have downloaded the Karobaar ERP application and logged in by clicking on the "I Agree/Login" button for Terms and Conditions or have explicitly consented to the policy on any other product/service page offered to you.
+This liability to you is limited to those who have downloaded the Karobar application and logged in by clicking on the "I Agree/Login" button for Terms and Conditions or have explicitly consented to the policy on any other product/service page offered to you.
 
 ***
 
@@ -42,7 +42,7 @@ This liability to you is limited to those who have downloaded the Karobaar ERP a
 
 ### 1. Collection of Information
 
-The Company collects, uses, discloses, shares and transfers Information, including but not limited to User content, other content, communications, information etc. provided by Users when the Users access or use the Karobaar ERP application for the Products and Services. By use of the Karobaar ERP application and/or Products and Services, express consent and permission is granted to the Company for having access to, using, processing, disclosing, sharing and transferring of information in accordance with this Policy and the Terms of Use.
+The Company collects, uses, discloses, shares and transfers Information, including but not limited to User content, other content, communications, information etc. provided by Users when the Users access or use the Karobar application for the Products and Services. By use of the Karobar application and/or Products and Services, express consent and permission is granted to the Company for having access to, using, processing, disclosing, sharing and transferring of information in accordance with this Policy and the Terms of Use.
 
 ### 2. Types of Information Collected
 
@@ -85,7 +85,7 @@ For the purpose of these Terms, "Non-Personal Information" shall mean informatio
 
 Personal and Non-Personal Information together is referred to as "Information".
 
-The Company may collect Information when registration or opening of an Account happens on the Karobaar ERP application, when features or Products and Services are used, when you share User content with the Company, and when you interact with the customer support team including the details of messages or chats.
+The Company may collect Information when registration or opening of an Account happens on the Karobar application, when features or Products and Services are used, when you share User content with the Company, and when you interact with the customer support team including the details of messages or chats.
 
 ### 3. Cookies and Similar Technologies
 
@@ -97,7 +97,7 @@ There could arise a requirement of providing payment information when you are re
 
 ### 5. Usage Information
 
-The Company collects information about your use of the Karobaar ERP application and/or Products and Services, such as:
+The Company collects information about your use of the Karobar application and/or Products and Services, such as:
 
 - Features used (invoice creation, inventory management, reports)
 - Activity carried out (products added, invoices generated, customers created)
@@ -135,7 +135,7 @@ Information that the Company obtains from these devices includes:
 - Data from local storage on devices
 
 **c. Location-Related Information:**
-Location-related information such as approximate location to provide personalized and improved use of the Karobaar ERP application and/or Products and Services. Location-related information can be based on things such as IP addresses, network information, or mobile operator information. **We do not collect precise GPS location data.**
+Location-related information such as approximate location to provide personalized and improved use of the Karobar application and/or Products and Services. Location-related information can be based on things such as IP addresses, network information, or mobile operator information. **We do not collect precise GPS location data.**
 
 ***
 
@@ -155,9 +155,9 @@ Location-related information such as approximate location to provide personalize
 
 ***
 
-## How Karobaar ERP Stores and Shares Google User Data
+## How Karobar Stores and Shares Google User Data
 
-**Karobaar ERP does not store any Google user data on our servers.** Whenever Karobaar ERP fetches this data, it gets shown to you while using the feature. You choose the data you want to use for import and that gets used to create customers/vendors for you in the software. Karobaar ERP will not store this data for any further use beyond the immediate import operation. Karobaar ERP will also not share your Google authentication data with anyone. Karobaar ERP will not store this data anywhere on external servers.
+**Karobar does not store any Google user data on our servers.** Whenever Karobar fetches this data, it gets shown to you while using the feature. You choose the data you want to use for import and that gets used to create customers/vendors for you in the software. Karobar will not store this data for any further use beyond the immediate import operation. Karobar will also not share your Google authentication data with anyone. Karobar will not store this data anywhere on external servers.
 
 ***
 
@@ -255,7 +255,7 @@ If you send us personal correspondence, such as emails or messages, or if other 
 
 ## Link to Third-Party SDK
 
-The Karobaar ERP Application may have a link to registered third-party SDKs that collect data on our behalf, and data is stored on a secured server to:
+The Karobar Application may have a link to registered third-party SDKs that collect data on our behalf, and data is stored on a secured server to:
 
 - Perform analytics
 - Provide crash reporting
@@ -275,12 +275,12 @@ We ensure that our third-party service providers take extensive security measure
 
 ***
 
-## How Karobaar ERP Uses User Data
+## How Karobar Uses User Data
 
 The Company may use the Information for:
 
 ### 1. Core Application Services
-- Providing access to the Karobaar ERP application and use of Products and Services
+- Providing access to the Karobar application and use of Products and Services
 - Managing your Account with the Company
 - Creating and managing invoices with automatic unit conversions (Master Units, Sut, inches, mm)
 - Managing inventory for Glass, Aluminum, Hardware, and Other categories
@@ -306,7 +306,7 @@ The Company may use the Information for:
 
 ### 4. Research and Development
 - Conduct general surveys or analysis of Accounts
-- Develop, test and improve the Karobaar ERP application and/or Products and Services
+- Develop, test and improve the Karobar application and/or Products and Services
 - Test and troubleshoot new products and features
 - Remove any glitches including technical problems
 - Improve the experience of navigating and carrying out transactions
@@ -368,7 +368,7 @@ The Company may provide, disclose and share information including Personal Infor
 - **Analytics providers**: For app usage analytics (Google Analytics, Firebase Analytics)
 - **Crash reporting services**: For identifying and fixing bugs (Firebase Crashlytics)
 - **Payment gateway providers**: For processing payments (if applicable)
-- **Technology partners, subsidiaries and affiliates**: Including services outside India, to help ensure availability of Karobaar ERP application and providing Products and Services
+- **Technology partners, subsidiaries and affiliates**: Including services outside India, to help ensure availability of Karobar application and providing Products and Services
 
 All third-party service providers are bound by confidentiality agreements and data protection standards.
 
