@@ -8,8 +8,10 @@ import { Label } from "@/components/ui/label";
 
 const Form = FormProvider;
 
+/** @type {React.Context<{ name?: string }>} */
 const FormFieldContext = React.createContext({});
 
+/** @param {React.ComponentProps<typeof Controller>} props */
 const FormField = ({ ...props }) => {
   return (
     <FormFieldContext.Provider value={{ name: props.name }}>
@@ -41,8 +43,10 @@ const useFormField = () => {
   };
 };
 
+/** @type {React.Context<{ id?: string }>} */
 const FormItemContext = React.createContext({});
 
+/** @param {React.ComponentProps<"div">} props */
 function FormItem({ className, ...props }) {
   const id = React.useId();
 
@@ -81,6 +85,7 @@ function FormControl({ ...props }) {
   );
 }
 
+/** @param {React.ComponentProps<"p">} props */
 function FormDescription({ className, ...props }) {
   const { formDescriptionId } = useFormField();
 
@@ -94,6 +99,7 @@ function FormDescription({ className, ...props }) {
   );
 }
 
+/** @param {React.ComponentProps<"p">} props */
 function FormMessage({ className, ...props }) {
   const { error, formMessageId } = useFormField();
   const body = error ? String(error?.message ?? "") : props.children;

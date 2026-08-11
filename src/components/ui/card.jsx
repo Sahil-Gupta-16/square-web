@@ -2,6 +2,7 @@ import * as React from "react";
 
 import { cn } from "@/lib/utils";
 
+/** @param {React.ComponentProps<"div">} props */
 function Card({ className, ...props }) {
   return (
     <div
@@ -15,6 +16,7 @@ function Card({ className, ...props }) {
   );
 }
 
+/** @param {React.ComponentProps<"div">} props */
 function CardHeader({ className, ...props }) {
   return (
     <div
@@ -28,6 +30,7 @@ function CardHeader({ className, ...props }) {
   );
 }
 
+/** @param {React.ComponentProps<"div">} props */
 function CardTitle({ className, ...props }) {
   return (
     <div
@@ -38,6 +41,7 @@ function CardTitle({ className, ...props }) {
   );
 }
 
+/** @param {React.ComponentProps<"div">} props */
 function CardDescription({ className, ...props }) {
   return (
     <div
@@ -48,6 +52,7 @@ function CardDescription({ className, ...props }) {
   );
 }
 
+/** @param {React.ComponentProps<"div">} props */
 function CardAction({ className, ...props }) {
   return (
     <div
@@ -58,10 +63,12 @@ function CardAction({ className, ...props }) {
   );
 }
 
+/** @param {React.ComponentProps<"div">} props */
 function CardContent({ className, ...props }) {
   return <div data-slot="card-content" className={cn("px-6", className)} {...props} />;
 }
 
+/** @param {React.ComponentProps<"div">} props */
 function CardFooter({ className, ...props }) {
   return (
     <div

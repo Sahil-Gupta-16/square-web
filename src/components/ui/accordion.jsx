@@ -6,10 +6,12 @@ import { Accordion as AccordionPrimitive } from "radix-ui";
 
 import { cn } from "@/lib/utils";
 
+/** @param {React.ComponentProps<typeof AccordionPrimitive.Root>} props */
 function Accordion({ ...props }) {
   return <AccordionPrimitive.Root data-slot="accordion" {...props} />;
 }
 
+/** @param {React.ComponentProps<typeof AccordionPrimitive.Item>} props */
 function AccordionItem({ className, ...props }) {
   return (
     <AccordionPrimitive.Item
@@ -20,6 +22,7 @@ function AccordionItem({ className, ...props }) {
   );
 }
 
+/** @param {React.ComponentProps<typeof AccordionPrimitive.Trigger>} props */
 function AccordionTrigger({ className, children, ...props }) {
   return (
     <AccordionPrimitive.Header className="flex">
@@ -38,6 +41,7 @@ function AccordionTrigger({ className, children, ...props }) {
   );
 }
 
+/** @param {React.ComponentProps<typeof AccordionPrimitive.Content>} props */
 function AccordionContent({ className, children, ...props }) {
   return (
     <AccordionPrimitive.Content

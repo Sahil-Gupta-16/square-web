@@ -2,7 +2,7 @@
 
 import React from "react";
 import { motion } from "framer-motion";
-import { Users, Target, Rocket, Award, Sparkles, Quote, Heart } from "lucide-react";
+import { Users, Target, Rocket, Award, Sparkles, Quote } from "lucide-react";
 
 const AboutPage = () => {
   const values = [

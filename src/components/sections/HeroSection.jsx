@@ -3,7 +3,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { Play, Download, ArrowRight } from "lucide-react";
+import { Play, Download } from "lucide-react";
 import { AnimatedGrid } from "@/components/aceternity/AnimatedGrid";
 import { TypingAnimation } from "@/components/aceternity/TypingAnimation";
 import { APP_LINKS } from "@/constants/links";

@@ -3,7 +3,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { Download, ArrowRight, MessageSquare } from "lucide-react";
+import { Download, MessageSquare } from "lucide-react";
 import Link from "next/link";
 import { APP_LINKS } from "@/constants/links";
 

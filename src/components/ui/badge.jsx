@@ -25,6 +25,11 @@ const badgeVariants = cva(
   },
 );
 
+/**
+ * @param {React.ComponentProps<"span"> &
+ *   import("class-variance-authority").VariantProps<typeof badgeVariants> &
+ *   { asChild?: boolean }} props
+ */
 function Badge({ className, variant = "default", asChild = false, ...props }) {
   const Comp = asChild ? Slot.Root : "span";
 

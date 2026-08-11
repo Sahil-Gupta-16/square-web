@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { Facebook, Twitter, Instagram, Linkedin, Mail, Phone, MessageCircle } from "lucide-react";
+import { Facebook, Twitter, Instagram, Mail, Phone, MessageCircle } from "lucide-react";
 import { APP_LINKS } from "@/constants/links";
 import { BRAND } from "@/constants/brand";
 import { BrandMark } from "@/components/layout/BrandMark";

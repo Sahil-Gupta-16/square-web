@@ -36,6 +36,11 @@ const buttonVariants = cva(
   },
 );
 
+/**
+ * @param {React.ComponentProps<"button"> &
+ *   import("class-variance-authority").VariantProps<typeof buttonVariants> &
+ *   { asChild?: boolean }} props
+ */
 function Button({ className, variant = "default", size = "default", asChild = false, ...props }) {
   const Comp = asChild ? Slot.Root : "button";
 

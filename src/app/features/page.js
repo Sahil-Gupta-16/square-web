@@ -8,15 +8,12 @@ import {
   FileText,
   BarChart3,
   CheckCircle2,
-  Search,
   Share2,
   Plus,
   ArrowUpRight,
   ArrowDownRight,
   AlertTriangle,
-  Calendar,
   MessageCircle,
-  Sliders,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
@@ -36,8 +33,9 @@ const UnitSystemMockup = () => {
   // Calculate Sq. Ft: (Width in inches * Height in inches) / 144
   const totalWidth = widthWhole + widthFrac / 16;
   const totalHeight = heightWhole + heightFrac / 16;
-  const sqft = ((totalWidth * totalHeight) / 144).toFixed(2);
-  const sqm = (sqft * 0.092903).toFixed(2);
+  const sqftValue = (totalWidth * totalHeight) / 144;
+  const sqft = sqftValue.toFixed(2);
+  const sqm = (sqftValue * 0.092903).toFixed(2);
 
   return (
     <div className="w-full bg-slate-900 rounded-[2rem] border border-slate-800 shadow-2xl p-6 flex flex-col md:flex-row gap-6 text-white min-h-[350px]">
@@ -54,7 +52,7 @@ const UnitSystemMockup = () => {
 
         {/* Width inputs */}
         <div className="space-y-2">
-          <label className="text-xs text-slate-400 font-medium">Width (Inches)</label>
+          <span className="text-xs text-slate-400 font-medium">Width (Inches)</span>
           <div className="flex gap-2">
             <div className="flex-1 bg-slate-950 rounded-xl p-2.5 border border-slate-800 flex items-center justify-between">
               <span className="text-sm font-bold text-slate-200">{widthWhole}″</span>
@@ -95,7 +93,7 @@ const UnitSystemMockup = () => {
 
         {/* Height inputs */}
         <div className="space-y-2">
-          <label className="text-xs text-slate-400 font-medium">Height (Inches)</label>
+          <span className="text-xs text-slate-400 font-medium">Height (Inches)</span>
           <div className="flex gap-2">
             <div className="flex-1 bg-slate-950 rounded-xl p-2.5 border border-slate-800 flex items-center justify-between">
               <span className="text-sm font-bold text-slate-200">{heightWhole}″</span>
